@@ -1,0 +1,29 @@
+_repo: Memorie-di-Giuda-vol-I_46494
+covers:
+- cover_type: archival
+  image_path: 46494/46494-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Petruccelli della Gattina, Ferdinando
+    aliases:
+    - Gattina, Ferdinando Petruccelli della
+    - Della Gattina, Ferdinando Petruccelli
+    birthdate: 1816
+    deathdate: 1890
+    gutenberg_agent_id: '8663'
+    url: http://www.gutenberg.org/2009/agents/8663
+    wikipedia: http://it.wikipedia.org/wiki/Ferdinando_Petruccelli_della_Gattina
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2014-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46494'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Memorie di Giuda, vol. I
+url: http://www.gutenberg.org/ebooks/46494
